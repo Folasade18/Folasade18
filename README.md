@@ -12,7 +12,7 @@ I specialize in exploratory data analysis, data visualization, and statistical a
 -I am currently working on personal projects to showcase my skills in data analysis. Stay tuned for updates on my GitHub repository!
 
 ## 📫Contact Me
-Feel free to reach out to me via email at folayeni11@gmail.com for any collaboration opportunities or to connect with me on [LinkedIn](https://www.linkedin.com/in/folasade-ayeni-b622a3313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+Feel free to reach out to me via email at folayeni18@gmail.com for any collaboration opportunities or to connect with me on [LinkedIn](https://www.linkedin.com/in/folasade-ayeni-b622a3313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 Let's dive into the world of data together and uncover valuable insights!
 <!---
